@@ -3,9 +3,9 @@
 This repository contains code for Dev.to clone in reactjs.
 
 View Demo:
-TBD
+https://dev-to-lovat.vercel.app/
 
-TBD
+https://dev-to-lovat.vercel.app/
 ### Detected Warnings at Production: 
 --> At hreff attribute of a link write /# instead of just #
     in the content.js <br />
